@@ -1,0 +1,38 @@
+#fset
+{
+    width: fit-content;
+    height: fit-content;
+    background-color: skyblue;
+    padding: 100px;
+    background-color: skyblue;
+}
+#fset1
+{
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    text-align: left;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-color: white;
+}
+#name
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+.submit
+{
+    height: 40px;
+    width: 120px;
+    background-color: skyblue;
+    border-color: skyblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#in
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}

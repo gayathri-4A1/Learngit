@@ -1,0 +1,21 @@
+.fset
+{
+    height: fit-content;
+    width: fit-content;
+    background-color:black;
+}
+#text
+{
+    height: 30px;
+    width: 125px;
+}
+input
+{
+    height: 20px;
+    width: 30px;
+    font-size: 10px;
+}
+input[type="button"] { 
+   background-color: grey;
+   border-color: grey;
+} 
